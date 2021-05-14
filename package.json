@@ -27,7 +27,7 @@
   "dependencies": {
     "node-nats-streaming": "^0.3.2",
     "reflect-metadata": "^0.1.13",
-    "rxjs": "^6.5.5",
+    "rxjs": "^6.6.7",
     "shortid": "^2.2.15"
   },
   "peerDependencies": {
